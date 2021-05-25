@@ -22,7 +22,13 @@ public class Dog {
 			return d1;
 		}
 		return d2;
-	}	
+	}
 
+	public Dog maxDog2(Dog d2) {
+		if (weightInPounds > d2.weightInPounds) {
+			return this;
+		}
+		return d2;
+	}
 
 } 

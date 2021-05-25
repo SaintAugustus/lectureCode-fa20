@@ -34,11 +34,24 @@ public class IntList {
 		return rest.get(i - 1);
 	}
 
+	/** Returns the ith item of this IntList using iteration. */
+	public int iterativeGet(int i) {
+		IntList newIntList = this;
+		if (i == 0) {
+			return newIntList.first;
+		}
+		for(int j = 1; j <= i; j++) {
+			newIntList = newIntList.rest;
+		}
+		return newIntList.first;
+	}
+
 	public static void main(String[] args) {
 		IntList L = new IntList(15, null);
 		L = new IntList(10, L);
 		L = new IntList(5, L);
 
-		System.out.println(L.get(100));
+		System.out.println(L.get(2));
+		System.out.println(L.iterativeGet(2));
 	}
 } 

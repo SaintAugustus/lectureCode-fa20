@@ -8,7 +8,8 @@ public class HoFDemo {
     }
 
     public static void main(String[] args) {
-        IntUnaryFunction tenX = new TenX();
+        //IntUnaryFunction tenX = new TenX();
+        TenX tenX = new TenX();
         System.out.println(do_twice(tenX, 2));
     }
 }

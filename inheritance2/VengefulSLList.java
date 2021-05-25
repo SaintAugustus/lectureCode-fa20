@@ -1,7 +1,7 @@
 /** SList with additional operation printLostItems() which prints all items
   * that have ever been deleted. */
 public class VengefulSLList<Item> extends SLList<Item> {
-    SLList<Item> deletedItems;
+    private SLList<Item> deletedItems;
 
     public VengefulSLList() {
         super();
@@ -9,6 +9,7 @@ public class VengefulSLList<Item> extends SLList<Item> {
     }
 
     public VengefulSLList(Item x) {
+        super(x);
         deletedItems = new SLList<Item>();
     }
 

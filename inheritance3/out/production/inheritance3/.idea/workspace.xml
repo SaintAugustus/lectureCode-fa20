@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e29fabb6-3fad-493a-a7be-671e31bae937" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../inheritance1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance1/inheritance1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance1/out/production/inheritance1/inheritance1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/inheritance2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/HoFDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/IntUnaryFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/List61B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/RotatingSLList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/SLList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/SLList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/TenX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/VengefulSLList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance2/out/production/inheritance2/inheritance2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/inheritance3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/inheritance3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/inheritance3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/inheritance3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/inheritance3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/inheritance3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/inheritance3/Comparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/inheritance3/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/inheritance3/DogLauncher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/inheritance3/Maximizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/inheritance3/inheritance3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists4/out/production/lists4/lists4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance2/HoFDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritance2/HoFDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance2/TenX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritance2/TenX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance2/VengefulSLList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritance2/VengefulSLList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testing/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tF3neYItUx59VJYclThZnfNuDc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="DogLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DogLauncher" />
+      <module name="inheritance3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <selectedOptions>
+        <option name="module.classpath" />
+      </selectedOptions>
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DogLauncher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e29fabb6-3fad-493a-a7be-671e31bae937" name="Default Changelist" comment="" />
+      <created>1622351178176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622351178176</updated>
+      <workItem from="1622351179457" duration="5039000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
